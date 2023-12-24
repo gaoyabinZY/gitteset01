@@ -3,5 +3,6 @@ public class GitTest {
         System.out.println("sdfsdf");
         System.out.println("sdfsdf");
         System.out.println("sdfsdf");
+        System.out.println("hot-fix test");
     }
 }
